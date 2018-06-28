@@ -1,0 +1,19 @@
+.search-bar {
+    margin: 20px;
+    text-align: center;
+}
+
+.search-bar input {
+    width: 75%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+h3 {
+    text-align: center;
+    color: brown;
+}
+
+ul {
+    text-align: center;
+}
